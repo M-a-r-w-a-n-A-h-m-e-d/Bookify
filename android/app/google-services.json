@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544665446027",
+    "project_id": "el-3yada",
+    "storage_bucket": "el-3yada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544665446027:android:2c4481f235470cee2d168e",
+        "android_client_info": {
+          "package_name": "com.example.my_doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7SdOJy2iwkLhynK5MLWdhnqWlmgXo2po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
