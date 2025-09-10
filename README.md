@@ -22,11 +22,6 @@ The app provides **secure authentication**, **real-time scheduling**, and a **re
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots here when available)*
-
----
-
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```bash
